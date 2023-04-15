@@ -1,0 +1,49 @@
+.cuerpo{
+	width: 72%;
+	padding: 15%;
+	background-color:#F0FFFF;
+	border-width: 2px;
+	border-color: black;
+	border-style: solid;
+	font-size: 25px;
+	font-family: calibri;
+	margin: 3px;
+}
+.cuadro{
+	width: 45%;
+	margin: 5px;
+	background-color: white;
+	border-width: 2px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 5%;
+	font-size: 25px;
+	color: black;
+	font-family: calibri;
+	display: inline-block;
+}
+.amigos{
+	width: 45%;
+	margin: 5px;
+	background-color: #E8B0A4;
+	border-width: 2px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 5%;
+	font-size: 25px;
+	color: black;
+	font-family: calibri;
+	display: inline-block;
+}
+.amix{
+	width: 90%;
+	margin: 5px;
+	background-color: #FF5733;
+	border-width: 2px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 5%;
+	font-size: 25px;
+	color: black;
+	font-family: calibri;
+	display: inline-block;
